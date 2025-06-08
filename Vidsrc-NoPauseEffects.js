@@ -24,14 +24,14 @@
         blockTransform: GM_getValue('blockTransform', defaultSettings.blockTransform)
     };
 
-    GM_registerMenuCommand('Toggle Grayscale Blocking: ' + (settings.blockGrayscale ? 'ON' : 'OFF'), function() {
+    GM_registerMenuCommand('Grayscale Blocking: ' + (settings.blockGrayscale ? 'ON' : 'OFF'), function() {
         settings.blockGrayscale = !settings.blockGrayscale;
         GM_setValue('blockGrayscale', settings.blockGrayscale);
         updateStyles();
         location.reload();
     });
 
-    GM_registerMenuCommand('Toggle Transform Scaling Blocking: ' + (settings.blockTransform ? 'ON' : 'OFF'), function() {
+    GM_registerMenuCommand('Transform Scaling Blocking: ' + (settings.blockTransform ? 'ON' : 'OFF'), function() {
         settings.blockTransform = !settings.blockTransform;
         GM_setValue('blockTransform', settings.blockTransform);
         updateStyles();
