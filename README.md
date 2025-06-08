@@ -12,7 +12,7 @@
 ## Installation 🛠️
 1. Grab the [Tampermonkey](https://www.tampermonkey.net/) extension for your browser (Chrome, Firefox, etc.). 
 2. Click the Tampermonkey icon and select "Create a new script."
-3. Copy-paste the `grayscale_blocker.js` code into the editor.
+3. Copy-paste the `Vidsrc-NoPauseEffects.js` code into the editor.
 4. Hit save (Ctrl+S or File > Save in Tampermonkey).
 5. Head to [cloudnestra.com](https://cloudnestra.com) or any stream site that uses Vidsrc(cloudnestra) and enjoy effect-free videos! 
 
