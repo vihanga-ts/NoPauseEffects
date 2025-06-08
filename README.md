@@ -1,4 +1,4 @@
-# Vidsrc Grayscale Blocker 🎥✨
+# Vidsrc Video Pause Effects Blocker 🎥✨
 
  I'm the kinda guy who *loves* hitting pause to catch every detail in a frame, but those pesky grayscale and zoom effects on VidSrc (cloudnestra.com) were driving me up the wall! So, I whipped up this nifty script to zap those annoying effects away. If you’re like me and hate seeing your videos go grayscale or scale up when paused, this script’s for you! Feel free to use it and enjoy a smoother viewing vibe. 😎
 
