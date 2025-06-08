@@ -38,4 +38,4 @@ MIT License. Check out [LICENSE](LICENSE) for the details.
 Love to have you onboard! Submit a pull request or open an issue for bugs or cool ideas. Let’s make this script even better! 💪
 
 Tags 🏷️
-#VidSrc #cloudnestra #fmovies #f-movies # f-movies #f-moviesz #rivestream #VidSrc.com #VidSrcMe
+#VidSrc #cloudnestra #VidSrc.com #VidSrcMe
